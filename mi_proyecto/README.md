@@ -56,6 +56,3 @@ Uso
 Navega entre las dos ventanas usando las rutas definidas en urls.py.
 
 Los templates se encuentran en la carpeta templates/.
-
-Licencia
-Este proyecto está bajo licencia MIT.
