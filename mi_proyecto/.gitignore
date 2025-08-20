@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+ENV/
+*.env
+
+# Archivos de compilación
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Archivos de logs
+*.log
+
+# Archivos de Django
+staticfiles/
+media/
+
+# Archivos de VSCode / IDEs
+.vscode/
+.idea/
+*.swp
